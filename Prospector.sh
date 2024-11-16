@@ -1,4 +1,4 @@
-read -p "Enter bridge: " bridge
+read bridge
 
 echo Installing tor and bridges
 apt install tor
