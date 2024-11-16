@@ -1,3 +1,4 @@
+echo 123
 read bridge
 
 echo Installing tor and bridges
